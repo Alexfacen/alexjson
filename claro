@@ -1,0 +1,1643 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11414623260498,
+          39.23532793489061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#62f20b",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115476608276367,
+          39.2340647929197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d1722c",
+        "marker-size": "medium",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.113266468048096,
+          39.23454678398636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1166,
+          39.2349,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Agave",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Agave americana<br>\n<b>Nome Italiano:</b> Agave<br>\n<b>Altezza:</b> 1<br>\n<b>Circ. Fusto:</b> /<br>\n<b>Diam. Chioma:</b> 1\n</div>",
+        "Nome Latino": "Agave americana",
+        "Altezza": 1,
+        "Circ. Fusto": "/",
+        "Diam. Chioma": 1,
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.116661,
+          39.234936,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Agave",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Agave americana<br>\n<b>Nome Italiano:</b> Agave<br>\n<b>Altezza:</b> 1 m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> \n</div>",
+        "Nome Latino": "Agave americana",
+        "Altezza": "1 m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": null,
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114807,
+          39.235571,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Arbutus unedo<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 5<br>\n<b>Circ. Fusto:</b> 30<br>\n<b>Diam. Chioma:</b> \n</div>",
+        "Nome Latino": "Arbutus unedo",
+        "Altezza": 5,
+        "Circ. Fusto": 30,
+        "Diam. Chioma": null,
+        "Note": null,
+        "Data": "2017-05-11",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114807,
+          39.235571,
+          0
+        ]
+      },
+      "properties": {
+        "name": "corbezzolo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Arbutus unedo<br>\n<b>Nome Italiano:</b> corbezzolo<br>\n<b>Altezza:</b> 3m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> \n</div>",
+        "Nome Latino": "Arbutus unedo",
+        "Altezza": "3m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": null,
+        "Note": null,
+        "Data": "2017-05-11",
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1143,
+          39.2365,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Bougainvillea glabra<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 2,80 m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 3 m\n</div>",
+        "Nome Latino": "Bougainvillea glabra",
+        "Altezza": "2,80 m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": "3 m",
+        "Note": null,
+        "Data": null,
+        "Rilevatore": "Stefano Musio",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1142,
+          39.2363,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bouganvillea glabra",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Bougainvillea glabra<br>\n<b>Nome Italiano:</b> Bouganvillea glabra<br>\n<b>Altezza:</b> 3 m<br>\n<b>Circ. Fusto:</b> 60 cm<br>\n<b>Diam. Chioma:</b> 3,40 m\n</div>",
+        "Nome Latino": "Bougainvillea glabra",
+        "Altezza": "3 m",
+        "Circ. Fusto": "60 cm",
+        "Diam. Chioma": "3,40 m",
+        "Note": null,
+        "Data": "2017-05-15",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11417,
+          39.234961,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Callistemo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Callistemon citrinus<br>\n<b>Nome Italiano:</b> Callistemo<br>\n<b>Altezza:</b> 2.80 m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 3.50 m\n</div>",
+        "Nome Latino": "Callistemon citrinus",
+        "Altezza": "2.80 m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": "3.50 m",
+        "Note": null,
+        "Data": "2017-05-15",
+        "Rilevatore": "Eleonora Cherchi Maria Adamo",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.117376,
+          39.234058,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cappero",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Capparis spinosa<br>\n<b>Nome Italiano:</b> Cappero<br>\n<b>Altezza:</b> 1<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 2\n</div>",
+        "Nome Latino": "Capparis spinosa",
+        "Altezza": 1,
+        "Circ. Fusto": null,
+        "Diam. Chioma": 2,
+        "Note": null,
+        "Data": "2017-05-11",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.117414,
+          39.234017,
+          0
+        ]
+      },
+      "properties": {
+        "name": "cappero",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Capparis spinosa<br>\n<b>Nome Italiano:</b> cappero<br>\n<b>Altezza:</b> 1 m<br>\n<b>Circ. Fusto:</b> -<br>\n<b>Diam. Chioma:</b> 2 m\n</div>",
+        "Nome Latino": "Capparis spinosa",
+        "Altezza": "1 m",
+        "Circ. Fusto": "-",
+        "Diam. Chioma": "2 m",
+        "Note": null,
+        "Data": null,
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11654,
+          39.234744,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bagolaro",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Celtis australis<br>\n<b>Nome Italiano:</b> Bagolaro<br>\n<b>Altezza:</b> 3<br>\n<b>Circ. Fusto:</b> 40<br>\n<b>Diam. Chioma:</b> 2.5\n</div>",
+        "Nome Latino": "Celtis australis",
+        "Altezza": 3,
+        "Circ. Fusto": 40,
+        "Diam. Chioma": 2.5,
+        "Note": null,
+        "Data": "08/05/2017",
+        "Rilevatore": "Maria, Iolanda, Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1154,
+          39.2354,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Ceratonia siliqua<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 5 m<br>\n<b>Circ. Fusto:</b> 35 cm<br>\n<b>Diam. Chioma:</b> 6 m\n</div>",
+        "Nome Latino": "Ceratonia siliqua",
+        "Altezza": "5 m",
+        "Circ. Fusto": "35 cm",
+        "Diam. Chioma": "6 m",
+        "Note": null,
+        "Data": null,
+        "Rilevatore": "Stefano Musio",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1157,
+          39.2359,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Carrubo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Ceratonia siliqua<br>\n<b>Nome Italiano:</b> Carrubo<br>\n<b>Altezza:</b> 4,5 m<br>\n<b>Circ. Fusto:</b> 50 cm<br>\n<b>Diam. Chioma:</b> 4 m\n</div>",
+        "Nome Latino": "Ceratonia siliqua",
+        "Altezza": "4,5 m",
+        "Circ. Fusto": "50 cm",
+        "Diam. Chioma": "4 m",
+        "Note": null,
+        "Data": "2017-05-15",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11483,
+          39.23566,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Palma nana",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Chamaerops humilis<br>\n<b>Nome Italiano:</b> Palma nana<br>\n<b>Altezza:</b> 3.1<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 6\n</div>",
+        "Nome Latino": "Chamaerops humilis",
+        "Altezza": 3.1,
+        "Circ. Fusto": null,
+        "Diam. Chioma": 6,
+        "Note": null,
+        "Data": "08/05/2017",
+        "Rilevatore": "Maria, Iolanda, Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115102,
+          39.235541,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cameropo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Chamaerops humilis<br>\n<b>Nome Italiano:</b> Cameropo<br>\n<b>Altezza:</b> 3.20 m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 3.00 m\n</div>",
+        "Nome Latino": "Chamaerops humilis",
+        "Altezza": "3.20 m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": "3.00 m",
+        "Note": null,
+        "Data": "2017-05-15",
+        "Rilevatore": "Eleonora Cherchi Maria Adamo",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11517,
+          39.23549,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cycas",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Cycas revoluta<br>\n<b>Nome Italiano:</b> Cycas<br>\n<b>Altezza:</b> 1.5<br>\n<b>Circ. Fusto:</b> 120<br>\n<b>Diam. Chioma:</b> 2.3\n</div>",
+        "Nome Latino": "Cycas revoluta",
+        "Altezza": 1.5,
+        "Circ. Fusto": 120,
+        "Diam. Chioma": 2.3,
+        "Note": null,
+        "Data": "08/05/2017",
+        "Rilevatore": "Maria,Iolanda, Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1152,
+          39.2355,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cycas",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Cycas revoluta<br>\n<b>Nome Italiano:</b> Cycas<br>\n<b>Altezza:</b> 1,5 m<br>\n<b>Circ. Fusto:</b> 150 cm<br>\n<b>Diam. Chioma:</b> 1,80 m\n</div>",
+        "Nome Latino": "Cycas revoluta",
+        "Altezza": "1,5 m",
+        "Circ. Fusto": "150 cm",
+        "Diam. Chioma": "1,80 m",
+        "Note": null,
+        "Data": "2017-05-15",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.113691,
+          39.234589,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Braea",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Erythaea armata<br>\n<b>Nome Italiano:</b> Braea<br>\n<b>Altezza:</b> 3<br>\n<b>Circ. Fusto:</b> 200<br>\n<b>Diam. Chioma:</b> 3\n</div>",
+        "Nome Latino": "Erythaea armata",
+        "Altezza": 3,
+        "Circ. Fusto": 200,
+        "Diam. Chioma": 3,
+        "Note": null,
+        "Data": null,
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114904,
+          39.235859,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Braea",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Erythaea armata<br>\n<b>Nome Italiano:</b> Braea<br>\n<b>Altezza:</b> 11m<br>\n<b>Circ. Fusto:</b> 1m<br>\n<b>Diam. Chioma:</b> 3m\n</div>",
+        "Nome Latino": "Erythaea armata",
+        "Altezza": "11m",
+        "Circ. Fusto": "1m",
+        "Diam. Chioma": "3m",
+        "Note": null,
+        "Data": null,
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.113691,
+          39.234589,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Braea",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Erythaea armata<br>\n<b>Nome Italiano:</b> Braea<br>\n<b>Altezza:</b> 3m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 3m\n</div>",
+        "Nome Latino": "Erythaea armata",
+        "Altezza": "3m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": "3m",
+        "Note": null,
+        "Data": "2017-05-11",
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114906,
+          39.235837,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Braea",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Erythaea armata<br>\n<b>Nome Italiano:</b> Braea<br>\n<b>Altezza:</b> 10 m<br>\n<b>Circ. Fusto:</b> 130 cm<br>\n<b>Diam. Chioma:</b> \n</div>",
+        "Nome Latino": "Erythaea armata",
+        "Altezza": "10 m",
+        "Circ. Fusto": "130 cm",
+        "Diam. Chioma": null,
+        "Note": null,
+        "Data": "08/05/2017 0:00",
+        "Rilevatore": "Alessandro",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114911,
+          39.235846,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Braea",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Erythaea armata<br>\n<b>Nome Italiano:</b> Braea<br>\n<b>Altezza:</b> 10 m<br>\n<b>Circ. Fusto:</b> 130 cm<br>\n<b>Diam. Chioma:</b> \n</div>",
+        "Nome Latino": "Erythaea armata",
+        "Altezza": "10 m",
+        "Circ. Fusto": "130 cm",
+        "Diam. Chioma": null,
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114911,
+          39.235846,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Braea",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Erythaea armata<br>\n<b>Nome Italiano:</b> Braea<br>\n<b>Altezza:</b> 10 m<br>\n<b>Circ. Fusto:</b> 130 cm<br>\n<b>Diam. Chioma:</b> \n</div>",
+        "Nome Latino": "Erythaea armata",
+        "Altezza": "10 m",
+        "Circ. Fusto": "130 cm",
+        "Diam. Chioma": null,
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115477,
+          39.237353,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eucalipto",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Eucalyptus camaldulensis<br>\n<b>Nome Italiano:</b> Eucalipto<br>\n<b>Altezza:</b> 17,87 m<br>\n<b>Circ. Fusto:</b> 170 cm<br>\n<b>Diam. Chioma:</b> 9 m\n</div>",
+        "Nome Latino": "Eucalyptus camaldulensis",
+        "Altezza": "17,87 m",
+        "Circ. Fusto": "170 cm",
+        "Diam. Chioma": "9 m",
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115482,
+          39.237345,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eucalipto Rosso",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Eucalyptus camaldulensis<br>\n<b>Nome Italiano:</b> Eucalipto Rosso<br>\n<b>Altezza:</b> 17.87<br>\n<b>Circ. Fusto:</b> 170<br>\n<b>Diam. Chioma:</b> 9\n</div>",
+        "Nome Latino": "Eucalyptus camaldulensis",
+        "Altezza": 17.87,
+        "Circ. Fusto": 170,
+        "Diam. Chioma": 9,
+        "Note": null,
+        "Data": "08/05/2017",
+        "Rilevatore": "Maria, Iolanda, Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1155,
+          39.2374,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eucalipto",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Eucalyptus camaldulensis<br>\n<b>Nome Italiano:</b> Eucalipto<br>\n<b>Altezza:</b> 16<br>\n<b>Circ. Fusto:</b> 170<br>\n<b>Diam. Chioma:</b> 9\n</div>",
+        "Nome Latino": "Eucalyptus camaldulensis",
+        "Altezza": 16,
+        "Circ. Fusto": 170,
+        "Diam. Chioma": 9,
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114612,
+          39.234742,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ibisco cinese",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Hibiscus syriacus<br>\n<b>Nome Italiano:</b> Ibisco cinese<br>\n<b>Altezza:</b> 1.80 m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 3.60 m\n</div>",
+        "Nome Latino": "Hibiscus syriacus",
+        "Altezza": "1.80 m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": "3.60 m",
+        "Note": null,
+        "Data": "2017-05-15",
+        "Rilevatore": "Eleonora Cherchi Maria Adamo",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1153,
+          39.2353,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Laurus nobilis<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 3 m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 1,20 m\n</div>",
+        "Nome Latino": "Laurus nobilis",
+        "Altezza": "3 m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": "1,20 m",
+        "Note": null,
+        "Data": null,
+        "Rilevatore": "Stefano Musio",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115547,
+          39.235561,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alloro",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Laurus nobilis<br>\n<b>Nome Italiano:</b> Alloro<br>\n<b>Altezza:</b> 3<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 3.2\n</div>",
+        "Nome Latino": "Laurus nobilis",
+        "Altezza": 3,
+        "Circ. Fusto": null,
+        "Diam. Chioma": 3.2,
+        "Note": null,
+        "Data": "08/05/2017",
+        "Rilevatore": "Maria, Iolanda, Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11558,
+          39.234978,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mirto",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Myrtus communis<br>\n<b>Nome Italiano:</b> Mirto<br>\n<b>Altezza:</b> 1.60 m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 2.30 m\n</div>",
+        "Nome Latino": "Myrtus communis",
+        "Altezza": "1.60 m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": "2.30 m",
+        "Note": null,
+        "Data": "2017-05-15",
+        "Rilevatore": "Eleonora Cherchi Maria Adamo",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114803,
+          39.232132,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oleandro",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Nerium oleander<br>\n<b>Nome Italiano:</b> Oleandro<br>\n<b>Altezza:</b> 2m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 1m\n</div>",
+        "Nome Latino": "Nerium oleander",
+        "Altezza": "2m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": "1m",
+        "Note": null,
+        "Data": "2017-05-11",
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114033,
+          39.2321328,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oleandro",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Nerium oleander<br>\n<b>Nome Italiano:</b> Oleandro<br>\n<b>Altezza:</b> 2<br>\n<b>Circ. Fusto:</b> -<br>\n<b>Diam. Chioma:</b> 1\n</div>",
+        "Nome Latino": "Nerium oleander",
+        "Altezza": 2,
+        "Circ. Fusto": "-",
+        "Diam. Chioma": 1,
+        "Note": "a",
+        "Data": null,
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115,
+          39.2352,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oleandro",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Nerium oleander<br>\n<b>Nome Italiano:</b> Oleandro<br>\n<b>Altezza:</b> 3 jm<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> \n</div>",
+        "Nome Latino": "Nerium oleander",
+        "Altezza": "3 jm",
+        "Circ. Fusto": null,
+        "Diam. Chioma": null,
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Veronica Marci",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1148,
+          39.2353,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oleandro",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Nerium oleander<br>\n<b>Nome Italiano:</b> Oleandro<br>\n<b>Altezza:</b> 3<br>\n<b>Circ. Fusto:</b> /<br>\n<b>Diam. Chioma:</b> /\n</div>",
+        "Nome Latino": "Nerium oleander",
+        "Altezza": 3,
+        "Circ. Fusto": "/",
+        "Diam. Chioma": "/",
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1154,
+          39.2352,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Olea europaea<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 4,50 m<br>\n<b>Circ. Fusto:</b> 70 cm<br>\n<b>Diam. Chioma:</b> 4 m\n</div>",
+        "Nome Latino": "Olea europaea",
+        "Altezza": "4,50 m",
+        "Circ. Fusto": "70 cm",
+        "Diam. Chioma": "4 m",
+        "Note": null,
+        "Data": null,
+        "Rilevatore": "Stefano Musio",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1143,
+          39.2348,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Olivo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Olea europaea<br>\n<b>Nome Italiano:</b> Olivo<br>\n<b>Altezza:</b> 5,5 m<br>\n<b>Circ. Fusto:</b> 550 cm<br>\n<b>Diam. Chioma:</b> 5 m\n</div>",
+        "Nome Latino": "Olea europaea",
+        "Altezza": "5,5 m",
+        "Circ. Fusto": "550 cm",
+        "Diam. Chioma": "5 m",
+        "Note": null,
+        "Data": "2017-05-15",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115,
+          39.2354,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ilatro comune",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Phillyrea angustifolia<br>\n<b>Nome Italiano:</b> Ilatro comune<br>\n<b>Altezza:</b> 2 m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 3 m\n</div>",
+        "Nome Latino": "Phillyrea angustifolia",
+        "Altezza": "2 m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": "3 m",
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Veronica Marci",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1146,
+          39.2357,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ilatro comune",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Phillyrea angustifolia<br>\n<b>Nome Italiano:</b> Ilatro comune<br>\n<b>Altezza:</b> 2<br>\n<b>Circ. Fusto:</b> /<br>\n<b>Diam. Chioma:</b> 3\n</div>",
+        "Nome Latino": "Phillyrea angustifolia",
+        "Altezza": 2,
+        "Circ. Fusto": "/",
+        "Diam. Chioma": 3,
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.116375,
+          39.234315,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pino d'aleppo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Pinus halepensis<br>\n<b>Nome Italiano:</b> Pino d'aleppo<br>\n<b>Altezza:</b> 7 m<br>\n<b>Circ. Fusto:</b> 80 cm<br>\n<b>Diam. Chioma:</b> 5 m\n</div>",
+        "Nome Latino": "Pinus halepensis",
+        "Altezza": "7 m",
+        "Circ. Fusto": "80 cm",
+        "Diam. Chioma": "5 m",
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.116048,
+          39.234783,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pino delle Canarie",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Pinus canariensis<br>\n<b>Nome Italiano:</b> Pino delle Canarie<br>\n<b>Altezza:</b> 7<br>\n<b>Circ. Fusto:</b> 100<br>\n<b>Diam. Chioma:</b> 5\n</div>",
+        "Nome Latino": "Pinus canariensis",
+        "Altezza": 7,
+        "Circ. Fusto": 100,
+        "Diam. Chioma": 5,
+        "Note": null,
+        "Data": "08/05/2017",
+        "Rilevatore": "Maria,Iolanda,Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1163,
+          39.2343,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pino d'aleppo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Pinus halepensis<br>\n<b>Nome Italiano:</b> Pino d'aleppo<br>\n<b>Altezza:</b> 7<br>\n<b>Circ. Fusto:</b> 80<br>\n<b>Diam. Chioma:</b> 5\n</div>",
+        "Nome Latino": "Pinus halepensis",
+        "Altezza": 7,
+        "Circ. Fusto": 80,
+        "Diam. Chioma": 5,
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115511,
+          39.235627,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lentisco",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Pistacia lentiscus<br>\n<b>Nome Italiano:</b> Lentisco<br>\n<b>Altezza:</b> 2.8<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 3.2\n</div>",
+        "Nome Latino": "Pistacia lentiscus",
+        "Altezza": 2.8,
+        "Circ. Fusto": null,
+        "Diam. Chioma": 3.2,
+        "Note": null,
+        "Data": "08/05/2017",
+        "Rilevatore": "Maria, Iolanda, Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.113802,
+          39.234461,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Pistacia terebintus<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 5<br>\n<b>Circ. Fusto:</b> 80<br>\n<b>Diam. Chioma:</b> 8\n</div>",
+        "Nome Latino": "Pistacia terebintus",
+        "Altezza": 5,
+        "Circ. Fusto": 80,
+        "Diam. Chioma": 8,
+        "Note": null,
+        "Data": null,
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.113628,
+          39.234563,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Pistacia terebintus<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 5<br>\n<b>Circ. Fusto:</b> 80<br>\n<b>Diam. Chioma:</b> 8\n</div>",
+        "Nome Latino": "Pistacia terebintus",
+        "Altezza": 5,
+        "Circ. Fusto": 80,
+        "Diam. Chioma": 8,
+        "Note": null,
+        "Data": "2017-05-11",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.116698,
+          39.234955,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pittosporo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Pittosporum tobira<br>\n<b>Nome Italiano:</b> Pittosporo<br>\n<b>Altezza:</b> 2<br>\n<b>Circ. Fusto:</b> 30<br>\n<b>Diam. Chioma:</b> 2\n</div>",
+        "Nome Latino": "Pittosporum tobira",
+        "Altezza": 2,
+        "Circ. Fusto": 30,
+        "Diam. Chioma": 2,
+        "Note": null,
+        "Data": "08/05/2017",
+        "Rilevatore": "Maria, Iolanda, Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1159,
+          39.2348,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mandorlo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Prunus amygdalus<br>\n<b>Nome Italiano:</b> Mandorlo<br>\n<b>Altezza:</b> 5<br>\n<b>Circ. Fusto:</b> /<br>\n<b>Diam. Chioma:</b> 6-7\n</div>",
+        "Nome Latino": "Prunus amygdalus",
+        "Altezza": 5,
+        "Circ. Fusto": "/",
+        "Diam. Chioma": "6-7",
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11589,
+          39.234863,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mandorlo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Prunus amygdalus<br>\n<b>Nome Italiano:</b> Mandorlo<br>\n<b>Altezza:</b> 5 m<br>\n<b>Circ. Fusto:</b> 60 cm<br>\n<b>Diam. Chioma:</b> 7 m\n</div>",
+        "Nome Latino": "Prunus amygdalus",
+        "Altezza": "5 m",
+        "Circ. Fusto": "60 cm",
+        "Diam. Chioma": "7 m",
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.116573,
+          39.234193,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roverella",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Quercus pubescens<br>\n<b>Nome Italiano:</b> Roverella<br>\n<b>Altezza:</b> 5 m<br>\n<b>Circ. Fusto:</b> 80 cm<br>\n<b>Diam. Chioma:</b> 7 m\n</div>",
+        "Nome Latino": "Quercus pubescens",
+        "Altezza": "5 m",
+        "Circ. Fusto": "80 cm",
+        "Diam. Chioma": "7 m",
+        "Note": null,
+        "Data": "2017-05-27",
+        "Rilevatore": "Eleonora Cherchi Maria Adamo",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1151,
+          39.2352,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roverella",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Quercus pubescens<br>\n<b>Nome Italiano:</b> Roverella<br>\n<b>Altezza:</b> 2 m<br>\n<b>Circ. Fusto:</b> 30 cm<br>\n<b>Diam. Chioma:</b> 5 m\n</div>",
+        "Nome Latino": "Quercus pubescens",
+        "Altezza": "2 m",
+        "Circ. Fusto": "30 cm",
+        "Diam. Chioma": "5 m",
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Veronica Marci",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1151,
+          39.2352,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Quercus pubescens<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 2,30 m<br>\n<b>Circ. Fusto:</b> 70 cm<br>\n<b>Diam. Chioma:</b> 4 m\n</div>",
+        "Nome Latino": "Quercus pubescens",
+        "Altezza": "2,30 m",
+        "Circ. Fusto": "70 cm",
+        "Diam. Chioma": "4 m",
+        "Note": null,
+        "Data": null,
+        "Rilevatore": "Samuel Delorenza",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1151,
+          39.2352,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roverella",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Quercus pubescens<br>\n<b>Nome Italiano:</b> Roverella<br>\n<b>Altezza:</b> 2<br>\n<b>Circ. Fusto:</b> 4<br>\n<b>Diam. Chioma:</b> 30\n</div>",
+        "Nome Latino": "Quercus pubescens",
+        "Altezza": 2,
+        "Circ. Fusto": 4,
+        "Diam. Chioma": 30,
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115143,
+          39.235214,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roverella",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Quercus pubescens<br>\n<b>Nome Italiano:</b> Roverella<br>\n<b>Altezza:</b> 2 m<br>\n<b>Circ. Fusto:</b> 30 cm<br>\n<b>Diam. Chioma:</b> 5 m\n</div>",
+        "Nome Latino": "Quercus pubescens",
+        "Altezza": "2 m",
+        "Circ. Fusto": "30 cm",
+        "Diam. Chioma": "5 m",
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11516,
+          39.2349,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sughera",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Quercus suber<br>\n<b>Nome Italiano:</b> Sughera<br>\n<b>Altezza:</b> 3.1<br>\n<b>Circ. Fusto:</b> 60<br>\n<b>Diam. Chioma:</b> 3.5\n</div>",
+        "Nome Latino": "Quercus suber",
+        "Altezza": 3.1,
+        "Circ. Fusto": 60,
+        "Diam. Chioma": 3.5,
+        "Note": null,
+        "Data": "08/05/2017",
+        "Rilevatore": "Maria, Iolanda, Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114807,
+          39.235571,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Rhamnus alaternus<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 4<br>\n<b>Circ. Fusto:</b> 20<br>\n<b>Diam. Chioma:</b> 4\n</div>",
+        "Nome Latino": "Rhamnus alaternus",
+        "Altezza": 4,
+        "Circ. Fusto": 20,
+        "Diam. Chioma": 4,
+        "Note": null,
+        "Data": null,
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114807,
+          39.235571,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alaterno",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Rhamnus alaternus<br>\n<b>Nome Italiano:</b> Alaterno<br>\n<b>Altezza:</b> 4m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> \n</div>",
+        "Nome Latino": "Rhamnus alaternus",
+        "Altezza": "4m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": null,
+        "Note": null,
+        "Data": "2017-05-11",
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11504,
+          39.2352,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rosmarino",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Rosmarinus officinalis<br>\n<b>Nome Italiano:</b> Rosmarino<br>\n<b>Altezza:</b> 1.7<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 6\n</div>",
+        "Nome Latino": "Rosmarinus officinalis",
+        "Altezza": 1.7,
+        "Circ. Fusto": null,
+        "Diam. Chioma": 6,
+        "Note": null,
+        "Data": "08/05/2017",
+        "Rilevatore": "Maria,Iolanda,Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114033,
+          39.233683,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Sterculia diversifolia<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 7<br>\n<b>Circ. Fusto:</b> 120<br>\n<b>Diam. Chioma:</b> 5\n</div>",
+        "Nome Latino": "Sterculia diversifolia",
+        "Altezza": 7,
+        "Circ. Fusto": 120,
+        "Diam. Chioma": 5,
+        "Note": null,
+        "Data": null,
+        "Rilevatore": null,
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114158,
+          39.233701,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Sterculia diversifolia<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 8<br>\n<b>Circ. Fusto:</b> 120<br>\n<b>Diam. Chioma:</b> 5\n</div>",
+        "Nome Latino": "Sterculia diversifolia",
+        "Altezza": 8,
+        "Circ. Fusto": 120,
+        "Diam. Chioma": 5,
+        "Note": null,
+        "Data": "2017-05-11",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1143,
+          39.2347,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tamerice comune",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Tamarix gallica<br>\n<b>Nome Italiano:</b> Tamerice comune<br>\n<b>Altezza:</b> 2,30 m<br>\n<b>Circ. Fusto:</b> 20 cm<br>\n<b>Diam. Chioma:</b> 1,70 m\n</div>",
+        "Nome Latino": "Tamarix gallica",
+        "Altezza": "2,30 m",
+        "Circ. Fusto": "20 cm",
+        "Diam. Chioma": "1,70 m",
+        "Note": null,
+        "Data": "2017-05-15",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1153,
+          39.2351,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Tamarix gallica<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 3,50m<br>\n<b>Circ. Fusto:</b> 13 cm<br>\n<b>Diam. Chioma:</b> 3 m\n</div>",
+        "Nome Latino": "Tamarix gallica",
+        "Altezza": "3,50m",
+        "Circ. Fusto": "13 cm",
+        "Diam. Chioma": "3 m",
+        "Note": null,
+        "Data": null,
+        "Rilevatore": "Stefano Musio",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115258,
+          39.235114,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Viburno",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Viburnum tinus<br>\n<b>Nome Italiano:</b> Viburno<br>\n<b>Altezza:</b> 2 m<br>\n<b>Circ. Fusto:</b> <br>\n<b>Diam. Chioma:</b> 1 m\n</div>",
+        "Nome Latino": "Viburnum tinus",
+        "Altezza": "2 m",
+        "Circ. Fusto": null,
+        "Diam. Chioma": "1 m",
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1153,
+          39.2352,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Viburno",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Viburnum tinus<br>\n<b>Nome Italiano:</b> Viburno<br>\n<b>Altezza:</b> 1-2<br>\n<b>Circ. Fusto:</b> /<br>\n<b>Diam. Chioma:</b> 1\n</div>",
+        "Nome Latino": "Viburnum tinus",
+        "Altezza": "1-2",
+        "Circ. Fusto": "/",
+        "Diam. Chioma": 1,
+        "Note": null,
+        "Data": "2017-05-08",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1149,
+          39.2358,
+          0
+        ]
+      },
+      "properties": {
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Washingtonia filifera<br>\n<b>Nome Italiano:</b> <br>\n<b>Altezza:</b> 8 m<br>\n<b>Circ. Fusto:</b> 240 cm<br>\n<b>Diam. Chioma:</b> 4 m\n</div>",
+        "Nome Latino": "Washingtonia filifera",
+        "Altezza": "8 m",
+        "Circ. Fusto": "240 cm",
+        "Diam. Chioma": "4 m",
+        "Note": null,
+        "Data": null,
+        "Rilevatore": "Stefano Musio",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115135,
+          39.233761,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yucca gloriosa",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Yucca Gloriosa<br>\n<b>Nome Italiano:</b> Yucca gloriosa<br>\n<b>Altezza:</b> 2.10 m<br>\n<b>Circ. Fusto:</b> 50 cm<br>\n<b>Diam. Chioma:</b> 1 m\n</div>",
+        "Nome Latino": "Yucca Gloriosa",
+        "Altezza": "2.10 m",
+        "Circ. Fusto": "50 cm",
+        "Diam. Chioma": "1 m",
+        "Note": null,
+        "Data": "2017-04-27",
+        "Rilevatore": "Eleonora Cherchi Maria Adamo",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1153,
+          39.2358,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Braea",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Erythaea armata<br>\n<b>Nome Italiano:</b> Braea<br>\n<b>Altezza:</b> 11<br>\n<b>Circ. Fusto:</b> 1<br>\n<b>Diam. Chioma:</b> /\n</div>",
+        "Nome Latino": "Erythaea armata",
+        "Altezza": 11,
+        "Circ. Fusto": 1,
+        "Diam. Chioma": "/",
+        "Note": null,
+        "Data": "08/05/2017 0:00",
+        "Rilevatore": "Dario,Veronica,Iolanda",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11376,
+          39.235471,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Albero del corallo",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Erythrina cristagalli<br>\n<b>Nome Italiano:</b> Albero del corallo<br>\n<b>Altezza:</b> 5 m<br>\n<b>Circ. Fusto:</b> 100 cm<br>\n<b>Diam. Chioma:</b> 7 m\n</div>",
+        "Nome Latino": "Erythrina cristagalli",
+        "Altezza": "5 m",
+        "Circ. Fusto": "100 cm",
+        "Diam. Chioma": "7 m",
+        "Note": null,
+        "Data": "15/05/2017 0:00",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115956,
+          39.23524,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Melograno",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Punica granatum<br>\n<b>Nome Italiano:</b> Melograno<br>\n<b>Altezza:</b> 2 m<br>\n<b>Circ. Fusto:</b> 20 cm<br>\n<b>Diam. Chioma:</b> 3 m\n</div>",
+        "Nome Latino": "Punica granatum",
+        "Altezza": "2 m",
+        "Circ. Fusto": "20 cm",
+        "Diam. Chioma": "3 m",
+        "Note": null,
+        "Data": "27/05/2017 0:00",
+        "Rilevatore": "Eleonora Cherchi Maria Adamo",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115071,
+          39.235544,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Palma Americana",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Washingtonia filifera<br>\n<b>Nome Italiano:</b> Palma Americana<br>\n<b>Altezza:</b> 9<br>\n<b>Circ. Fusto:</b> 160<br>\n<b>Diam. Chioma:</b> 4\n</div>",
+        "Nome Latino": "Washingtonia filifera",
+        "Altezza": 9,
+        "Circ. Fusto": 160,
+        "Diam. Chioma": 4,
+        "Note": null,
+        "Data": "05/08/2017 0:00",
+        "Rilevatore": "Maria, Iolanda, Andrea",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1155,
+          39.2356,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Palma messicana",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Washingtonia filifera<br>\n<b>Nome Italiano:</b> Palma messicana<br>\n<b>Altezza:</b> 7,5 m<br>\n<b>Circ. Fusto:</b> 150 cm<br>\n<b>Diam. Chioma:</b> 3,5 m\n</div>",
+        "Nome Latino": "Washingtonia filifera",
+        "Altezza": "7,5 m",
+        "Circ. Fusto": "150 cm",
+        "Diam. Chioma": "3,5 m",
+        "Note": null,
+        "Data": "15/05/2017 0:00",
+        "Rilevatore": "Giada Pilloni",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1165,
+          39.2349,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Agave",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Agave americana<br>\n<b>Nome Italiano:</b> Agave<br>\n<b>Altezza:</b> 1 m<br>\n<b>Circ. Fusto:</b> 4<br>\n<b>Diam. Chioma:</b> 3\n</div>",
+        "Nome Latino": "Agave americana",
+        "Altezza": "1 m",
+        "Circ. Fusto": 4,
+        "Diam. Chioma": 3,
+        "Note": null,
+        "Data": "08/05/2017 0:00",
+        "Rilevatore": "Veronica Marci",
+        "New formula": "*****"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.113908,
+          39.235156,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jacaranda blu\npotatura a capitozzo\nmolto selvaggia",
+        "description": "<div class=\"googft-info-window\">\n<b>Nome Latino:</b> Jacaranda mimosifolia<br>\n<b>Nome Italiano:</b> Jacaranda blu\npotatura a capitozzo\nmolto selvaggia<br>\n<b>Altezza:</b> 2.50 m<br>\n<b>Circ. Fusto:</b> 70 cm<br>\n<b>Diam. Chioma:</b> 4.50 m\n</div>",
+        "Nome Latino": "Jacaranda mimosifolia",
+        "Altezza": "2.50 m",
+        "Circ. Fusto": "70 cm",
+        "Diam. Chioma": "4.50 m",
+        "Note": null,
+        "Data": "15/05/2017 0:00",
+        "Rilevatore": "Eleonora Cherchi Maria Adamo",
+        "New formula": "*****"
+      }
+    }
+  ]
+}
